@@ -1,3 +1,4 @@
 # 实战项目1
-#acc = 0.85
+#acc = 0.85   epoch 5
+#acc = 0.86   epoch 10
 #cassava-leaf-disease-classification
